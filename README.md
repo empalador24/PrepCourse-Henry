@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del curso de henry
+Cristian Javier Oyola Tovar
+como clonar un repositorio desde github a mi pc
